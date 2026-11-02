@@ -208,9 +208,6 @@ An analytics dashboard to track expenses and income with interactive charts, bud
 
 <img src="https://img.shields.io/badge/AI%20%2F%20Machine%20Learning-0f172a?style=for-the-badge&logo=openai&logoColor=white&labelColor=0f172a"/>
 <img src="https://img.shields.io/badge/System%20Design-0f172a?style=for-the-badge&logo=diagramsdotnet&logoColor=white&labelColor=0f172a"/>
-<img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0f172a"/>
-<img src="https://img.shields.io/badge/AWS-0f172a?style=for-the-badge&logo=amazonaws&logoColor=FF9900&labelColor=0f172a"/>
-<img src="https://img.shields.io/badge/DevOps-0f172a?style=for-the-badge&logo=githubactions&logoColor=2088FF&labelColor=0f172a"/>
 
 </div>
 
