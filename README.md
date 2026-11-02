@@ -40,7 +40,7 @@ const nGuruPrasad = {
     location: "India",
     status: "Fresher — Actively Seeking Opportunities",
     stack: ["React", "Next.js", "Node.js", "Express.js", "MongoDB", "MySQL"],
-    currentFocus: ["AI", "System Design", "Docker", "AWS", "DevOps"],
+    currentFocus: ["AI", "System Design"],
     philosophy: "Clean code, thoughtful design, real impact.",
     funFact: "I turn coffee into components ☕ → 💻"
 };
@@ -80,7 +80,7 @@ const nGuruPrasad = {
 
 **Tools & Platforms**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 
 </div>
 
